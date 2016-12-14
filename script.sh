@@ -1,12 +1,12 @@
-echo s1
+echo is1
 hostname
-echo s2
+echo is2
 pwd
-echo s3
+echo is3
 whoami
-echo s4
+echo is4
 ls -latr
 sleep 10
-echo s5
+echo is5
 uname -a
-echo s6
+echo is6
