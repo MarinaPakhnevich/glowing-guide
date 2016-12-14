@@ -1,4 +1,4 @@
-echo Should run only on Linux
+echo Should run only on other
 echo ais1
 hostname
 echo ais2
