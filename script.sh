@@ -1,4 +1,4 @@
-echo Should run only on other
+echo Should run only on Other
 echo ais1
 hostname
 echo ais2
