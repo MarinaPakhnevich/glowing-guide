@@ -1,4 +1,4 @@
-echo Should run only on Other
+echo Should run only on Windows
 echo ais1
 hostname
 echo ais2
