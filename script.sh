@@ -1,5 +1,5 @@
 hostname
 pwd
 whoami
-ls -la
+ls -latr
 sleep 10
