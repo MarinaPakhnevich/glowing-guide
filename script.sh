@@ -1,4 +1,4 @@
-echo Now I should run only on Windows
+echo Oh, i donno, but I hope I will run only on Windows
 echo ais1
 hostname
 echo ais2
