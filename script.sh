@@ -1,3 +1,4 @@
+echo Should run only on Linux
 echo ais1
 hostname
 echo ais2
