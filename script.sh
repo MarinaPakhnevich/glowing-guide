@@ -1,4 +1,4 @@
-echo Should run only on Windows
+echo Now I should run only on Windows
 echo ais1
 hostname
 echo ais2
