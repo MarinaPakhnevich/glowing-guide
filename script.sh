@@ -1,5 +1,5 @@
 declare -i count=10
-echo I am running on 2 and 321
+echo I am running on 3 and 1
 echo $count ; let count=$count+1
 hostname
 echo $count ; let count=$count+1
