@@ -1,5 +1,5 @@
 declare -i count=1
-echo Here by I start
+echo emm Here by I start
 echo $count ; let count=$count+1
 hostname
 echo $count ; let count=$count+1
