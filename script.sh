@@ -1,5 +1,5 @@
 declare -i count=10
-echo emm Here by I start
+echo RUN on ALL 
 echo $count ; let count=$count+1
 hostname
 echo $count ; let count=$count+1
@@ -9,7 +9,7 @@ whoami
 echo $count ; let count=$count+1
 ls -latr
 echo I am tired, wanna sleep a bit
-sleep 11
+sleep 1
 echo $count ; let count=$count+1
 uname -a
 echo I am exitting now
