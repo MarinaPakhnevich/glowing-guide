@@ -1,5 +1,5 @@
 declare -i count=1
-echo and yet another try - I must be run only on Build1
+echo How do i figure it out, er - I must be run only on Build1
 echo $count ; let count=$count+1
 hostname
 echo $count ; let count=$count+1
