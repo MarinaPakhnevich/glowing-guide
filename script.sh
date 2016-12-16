@@ -1,4 +1,4 @@
-declare -i count=1
+declare -i count=10
 echo emm Here by I start
 echo $count ; let count=$count+1
 hostname
