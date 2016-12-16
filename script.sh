@@ -1,4 +1,5 @@
 declare -i count=1
+echo test
 echo How do i figure it out, er - I must be run only on Build1 and skip all others
 echo $count ; let count=$count+1
 hostname
