@@ -12,5 +12,5 @@ echo I am tired, wanna sleep a bit
 sleep 10
 echo $count ; let count=$count+1
 uname -a
-echo $count ; let count=$count+1
+echo I am exitting now
 
