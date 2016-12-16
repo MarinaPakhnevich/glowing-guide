@@ -1,5 +1,5 @@
 declare -i count=1
-echo test
+echo test it over and over again
 echo How do i figure it out, er - I must be run only on Build1 and skip all others
 echo $count ; let count=$count+1
 hostname
@@ -14,4 +14,3 @@ sleep 10
 echo $count ; let count=$count+1
 uname -a
 echo I am exitting now
-
