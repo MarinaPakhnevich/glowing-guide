@@ -1,13 +1,16 @@
-echo Oh, i donno, but I hope I will run only on Windows
-echo ais1
+declare -i count=1
+echo Hi there I must be run only on Build1
+echo $count ; let count=$count+1
 hostname
-echo ais2
+echo $count ; let count=$count+1
 pwd
-echo ais3
+echo $count ; let count=$count+1
 whoami
-echo ais4
+echo $count ; let count=$count+1
 ls -latr
+echo I am tired, wanna sleep a bit
 sleep 10
-echo ais5
+echo $count ; let count=$count+1
 uname -a
-echo ais6
+echo $count ; let count=$count+1
+
