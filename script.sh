@@ -1,5 +1,5 @@
 declare -i count=10
-echo I am running on 1 and 2 
+echo I am running on alll, excl 1
 echo $count ; let count=$count+1
 hostname
 echo $count ; let count=$count+1
