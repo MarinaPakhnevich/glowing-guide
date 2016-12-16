@@ -1,5 +1,5 @@
 declare -i count=10
-echo RUN
+echo I am running on ALL
 echo $count ; let count=$count+1
 hostname
 echo $count ; let count=$count+1
