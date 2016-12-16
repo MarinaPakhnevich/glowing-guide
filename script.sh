@@ -1,6 +1,5 @@
 declare -i count=1
-echo test it over and over again
-echo How do i figure it out, er - I must be run only on Build1 and skip all others
+echo Here by I start
 echo $count ; let count=$count+1
 hostname
 echo $count ; let count=$count+1
