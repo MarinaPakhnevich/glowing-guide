@@ -1,5 +1,6 @@
 declare -i count=10
-echo I am running on 111
+bc=111
+echo I am running on $bc > $bc.txt
 echo $count ; let count=$count+1
 hostname
 echo $count ; let count=$count+1
