@@ -1,5 +1,5 @@
 declare -i count=10
-bc="PLACEHOLDER_FOR_THE_BRANCHNAME"
+bc="docker/OS28/Ver28/Type28"
 echo I am running on $bc > $bc.txt
 echo $count ; let count=$count+1
 hostname
