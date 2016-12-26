@@ -1,5 +1,5 @@
 declare -i count=10
-bc="PLACEHOLDER_FOR_THE_BRANCHNAME"
+bc="master"
 echo I am running on $bc > `echo $bc| tr '/' '_'`.txt
 echo $count ; let count=$count+1
 hostname
