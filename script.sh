@@ -1,3 +1,5 @@
+#!/bin/bash
+
 declare -i count=10
 bc="master"
 echo I am running on $bc > `echo $bc| tr '/' '_'`.txt
